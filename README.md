@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning AI and Data Science
 - 💞️ I’m looking to collaborate on Data Analysis Projects
-- 📫 How to reach me through my LinkedIn: linkedin.com/in/bentheanalyst
+- 📫 How to reach me via benstatistician@gmail.com
 -
 
 <!---
