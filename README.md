@@ -1,8 +1,8 @@
-- 👋 Hi, I’m **Ben the Analyst**
-- 👀 I’m interested in **Data Analytics**
-- 🌱 I’m currently learning **AI and Data Science**
-- 💞️ I’m looking to collaborate on **Data Analysis Projects**
-- 📫 How to reach me via benstatistician@gmail.com
+I am rational and result-oriented data analyst /engineer with 5+ years of experience. I hold a BSc. Applied Statistics with Computing and an MSc. Artificial Intelligence and Data Science from Keele University
+
+
+
+- 📫 How to reach me via benmcnyandega@gmail.com
 -
 
 <!---
